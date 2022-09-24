@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Simple MineSweeper</string>
+    <string name="clock">\uD83D\uDD53</string>
+    <string name="flag">\uD83D\uDEA9</string>
+    <string name="mine">\uD83D\uDCA3</string>
+    <string name="pick">\u26CF</string>
+    <string name="title_result_page">Simple MineSweeper</string>
+    <string name="numFlags">15</string>
+    <string name="encourage_won">Good job!</string>
+    <string name="encourage_lost">Try again.</string>
+    <string name="display_time_elapsed">Used %d seconds.</string>
+</resources>
